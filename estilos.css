@@ -295,3 +295,19 @@ button{
     font-size: 24px;
 }
 
+.btn:hover{
+    color: #fff;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.social-social{
+    display: flex;
+    align-items: center;
+}
+
